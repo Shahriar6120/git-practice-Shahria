@@ -1,0 +1,1 @@
+**Project Description:** This is the assignment for Module 8. Where we learn about Git and GitHub.
